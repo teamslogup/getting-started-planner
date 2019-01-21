@@ -1,4 +1,4 @@
-# getting-started-plan
+# getting-started-planner
 
 ## 개요
 슬로그업 내에서 작성하는 기획 문서 규칙입니다. 슬로그업에서는 기능정의서 문서를 YAML or JSON 문법에 의거하여 작성하고 있습니다. 따라서 기획문서를 작성하거나 읽으려는 사람은 반드시 해당 내용을 숙지해야 합니다.
